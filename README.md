@@ -103,7 +103,7 @@ Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/Silva
 Desenvolvedor: Silvanei Martins<br>
 Telegram: +55 (69) 9.8405-2620 <br>
 Email: silvaneimartins_rcc@hotmail.com<br>
-Site pessoal: <a href="https://silvaneimartins.com.br/"> title="Silvanei Martins"</a><br>
+Site pessoal: <a href="https://silvaneimartins.com.br/">Silvanei Martins</a><br>
 
 ### Com AMOR é outro nível
 ```js
