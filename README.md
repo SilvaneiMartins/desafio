@@ -34,7 +34,7 @@ Neste desagio, foi desenvolvido uma api aonde cadastra profissional e tipo de pr
 
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
-### Tecnologias usada no Backend :earth_americas:
+### Tecnologias do Backend :earth_americas:
 
 Tecnologias usado no desenvolvimento no Backend:
 
@@ -47,9 +47,9 @@ Tecnologias usado no desenvolvimento no Backend:
 -  [UUID](https://www.uuidgenerator.net/)
 -  [Cors](https://demoiselle.gitbooks.io/documentacao-jee/content/cors.html)
 
-### Tecnologias usada no Frontend :computer:
+### Tecnologias do Frontend :computer:
 
-Tecnologias usado no desenvolvimento no Fronend:
+No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida da facilidade do uso e da configuração do mesmo, para criar toda a estrutura do projeto usamos o NextJs, apos excluirmos arquivos desnecessarios, iniciamos as primeiras configuração, apos configuração pronto, instamos o typescript + react js como ferramenta do visual, para estizarmos utilizamos CSS e para conectar o frontend com o backend utilizamos a biblioteca axios.
 
 -  [ReactJS](https://reactjs.org/)
 -  [Typescript](https://www.typescriptlang.org/)
@@ -102,6 +102,7 @@ Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/Silva
 Desenvolvedor: Silvanei Martins<br>
 Telegram: +55 (69) 9.8405-2620 <br>
 Email: silvaneimartins_rcc@hotmail.com<br>
+Site pessoal: <a href="https://silvaneimartins.com.br/"><img title="Silvanei Martins" /></a><br>
 
 ### Com AMOR é outro nível
 ```js
