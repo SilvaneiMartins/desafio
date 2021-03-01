@@ -75,14 +75,26 @@ $ yarn install
 $ yarn dev
 ```
 
+### Configurar DB Sqlite3 :earth_americas:
+```bash
+# Criar uma Migrations
+# Caso voce queira implementar
+$ yarn typeorm migration:create -n CreateProfissional
+$ yarn typeorm migration:create -n CreateTipoProfissional
+
+# Rodar a Migration
+# Caso não queira implementar, só rodar as migration;
+$ yarn typeorm migration:run
+```
+
 ### Frontend :computer:
 Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.com) e [Yarn](https://yarnpkg.com/) ou maior instalados. Comandos:
 
 ```bash
-# Clone this repository
+# Clonar repositorio
 $ git clone https://github.com/SilvaneiMartins/desafio/maxxidata-web
 
-# Go into the repository
+# Acessar pasta clonada
 $ cd maxxidata-web
 
 # Install dependencies do projeto
