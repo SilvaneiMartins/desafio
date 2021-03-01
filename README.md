@@ -1,9 +1,9 @@
 <h1 align="center">
-    Desafio BACKEND e FRONTEND
+    Desafio Backend e Frontend
 </h1>
 
 <h4 align="left">
-Neste desagio, foi desenvolvido uma api aonde cadastra profissional e tipo de profissional utilizando banco de dados sqlite3. Para desenvolver utilizei framework typescript pela facilidada da tipagem, banco  de dados sqlite3 e no densenvolvimento front-end foi usado a seguinte tecnologias para criar o projeto, next.js com typescript, estilizado com css e usei axios para auxliar na conexão com a api.
+No desafio proposto, foi desenvolvido uma api aonde cadastra profissional e tipo de profissional utilizando banco de dados sqlite3. Para desenvolver utilizei framework typescript pela facilidada da tipagem, banco  de dados sqlite3 e no densenvolvimento front-end foi usado a seguinte tecnologias para criar o projeto, next.js com typescript, estilizado com css e usei axios para auxliar na conexão com a api.
 </h4>
 
 <p align="center">
@@ -13,20 +13,20 @@ Neste desagio, foi desenvolvido uma api aonde cadastra profissional e tipo de pr
 </p>
 
 <h4 align="left">
-  Demotração do front-end.
+  Imagens do Frontend.
 </h4>
 
 <a href="https://imgur.com/7DO7uYq"><img src="https://i.imgur.com/7DO7uYq.png" title="source: imgur.com" /></a>
 
 <h4 align="left">
-  Demotração da api.
+   Imagens da Backend.
 </h4>
 
 <a href="https://imgur.com/XNCnrV6"><img src="https://i.imgur.com/XNCnrV6.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/v7RjRHy"><img src="https://i.imgur.com/v7RjRHy.png" title="source: imgur.com" /></a>
 
 <h4 align="left">
-  Demotração do banco de dados sqlite3.
+  Imagens do banco de dados sqlite3.
 </h4>
 
 <a href="https://imgur.com/3eiQPzP"><img src="https://i.imgur.com/3eiQPzP.png" title="source: imgur.com" /></a>
