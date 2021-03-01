@@ -88,7 +88,7 @@ $ yarn typeorm migration:run
 ```
 
 ### Frontend :computer:
-Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.com) e [Yarn](https://yarnpkg.com/) ou maior instalados. Comandos:
+Para clonar e executar esta aplicação Frondend, você precisa ter instalado em seu computador [Git](https://git-scm.com) e [Yarn](https://yarnpkg.com/) e segui comandos logo abaixo:
 
 ```bash
 # Clonar repositorio
