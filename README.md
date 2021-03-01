@@ -32,9 +32,9 @@ Neste desagio, foi desenvolvido uma api aonde cadastra profissional e tipo de pr
 <a href="https://imgur.com/3eiQPzP"><img src="https://i.imgur.com/3eiQPzP.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/7sPzt2x"><img src="https://i.imgur.com/7sPzt2x.png" title="source: imgur.com" /></a>
 
-## :rocket: Tecnologias
+## :rocket: Tecnologias usadas no desenvolvimento;
 
-### Backend :earth_americas:
+### Tecnologias usada no Backend :earth_americas:
 
 Tecnologias usado no desenvolvimento no Backend:
 
@@ -47,7 +47,7 @@ Tecnologias usado no desenvolvimento no Backend:
 -  [UUID](https://www.uuidgenerator.net/)
 -  [Cors](https://demoiselle.gitbooks.io/documentacao-jee/content/cors.html)
 
-### Frontend :computer:
+### Tecnologias usada no Frontend :computer:
 
 Tecnologias usado no desenvolvimento no Fronend:
 
