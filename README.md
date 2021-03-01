@@ -97,7 +97,7 @@ Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/Silva
 
 ---
 
-## :user: License
+## :social: Informação do Desenvolvedor
 Desenvolvedor: Silvanei Martins<br>
 Telegram: +55 (69) 9.8405-2620 <br>
 Email: silvaneimartins_rcc@hotmail.com<br>
