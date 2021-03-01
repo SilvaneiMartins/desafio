@@ -35,8 +35,7 @@ Neste desagio, foi desenvolvido uma api aonde cadastra profissional e tipo de pr
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
 ### Tecnologias do Backend :earth_americas:
-
-Tecnologias usado no desenvolvimento no Backend:
+No frontend optamos por usar as tecnologais descritas abaixo, diferente de tudo que usei em outros api que desenvolvi e participei como desenvolver foi a framework typescript. Ainda não tinha usado no backend como denseolvimento e claro que não utilizei quase nada do que é proposto pela tecnologia.
 
 -  [Nodejs](https://nodejs.org/en/)
 -  [Typeorm](https://typeorm.io/#/)
@@ -48,8 +47,7 @@ Tecnologias usado no desenvolvimento no Backend:
 -  [Cors](https://demoiselle.gitbooks.io/documentacao-jee/content/cors.html)
 
 ### Tecnologias do Frontend :computer:
-
-No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida da facilidade do uso e da configuração do mesmo, para criar toda a estrutura do projeto usamos o NextJs, apos excluirmos arquivos desnecessarios, iniciamos as primeiras configuração, apos configuração pronto, instamos o typescript + react js como ferramenta do visual, para estizarmos utilizamos CSS e para conectar o frontend com o backend utilizamos a biblioteca axios.
+No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida e facilidade do uso e da configuração do mesmo, para criar toda a estrutura do projeto usamos o NextJs, apos excluirmos arquivos desnecessarios, iniciamos as primeiras configuração, apos configuração pronto, instamos o typescript + react js como ferramenta do visual, para estizarmos utilizamos CSS e para conectar o frontend com o backend utilizamos a biblioteca axios.
 
 -  [ReactJS](https://reactjs.org/)
 -  [Typescript](https://www.typescriptlang.org/)
