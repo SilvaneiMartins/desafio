@@ -2,8 +2,8 @@
     Desafio BACKEND e FRONTEND
 </h1>
 
-<h4 align="center">
-Neste desagio, foi desenvolvido uma api aonde cadastra profissional e tipo de profissional utilizando banco de dados. Para desenvolver utilizei typescript, banco  de dados sqlite e no densenvolvimento front-end foi usando a seguinte tecnologias para criar o projeto usei next js com typescript, estilizado com css puro, usamos axios para conectar com a api.
+<h4 align="left">
+Neste desagio, foi desenvolvido uma api aonde cadastra profissional e tipo de profissional utilizando banco de dados sqlite3. Para desenvolver utilizei framework typescript pela facilidada da tipagem, banco  de dados sqlite3 e no densenvolvimento front-end foi usado a seguinte tecnologias para criar o projeto, next.js com typescript, estilizado com css e usei axios para auxliar na conexão com a api.
 </h4>
 
 <p align="center">
