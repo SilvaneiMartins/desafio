@@ -103,9 +103,9 @@ Telegram: +55 (69) 9.8405-2620 <br>
 Email: silvaneimartins_rcc@hotmail.com<br>
 Site pessoal: <a href="https://silvaneimartins.com.br/">Silvanei Martins</a><br>
 
-### 🤜🤛 Com AMOR é outro nível ❤
+### 🤜🤛 Com amor é outro nível ❤
 ```js
 {
-    "Amor": O amor pelo que faz, te leva para outro nível.
+    "Amor": Tendo amor pelo que faz, te leva para outro nível.
 }
 ```
