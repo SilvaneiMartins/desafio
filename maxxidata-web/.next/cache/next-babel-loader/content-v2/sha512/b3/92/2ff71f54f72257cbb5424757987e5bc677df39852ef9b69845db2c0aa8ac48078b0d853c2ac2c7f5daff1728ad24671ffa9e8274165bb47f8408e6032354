@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import Document, { Html, Head, Main, NextScript } from \"next/document\";\n"]},"metadata":{},"sourceType":"module"}

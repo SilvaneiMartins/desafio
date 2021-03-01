@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container h2 {
+    margin-right: 2rem;
+    font-size: 2rem;
+    align-items: center;
+}
+
+.container img {
+    cursor: pointer;
+}
